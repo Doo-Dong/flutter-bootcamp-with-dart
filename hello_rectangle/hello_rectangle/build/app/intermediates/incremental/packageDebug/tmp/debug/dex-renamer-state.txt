@@ -1,0 +1,4 @@
+#Sun May 17 19:07:43 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\hello_rectangle\\hello_rectangle\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,694 @@
+[
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_pause.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_pause.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_stop.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_stop.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_next.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_next.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_circular_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_circular_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_fullscreen_enter.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_rewind.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_rewind.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_vr.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_vr.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_exo_list_divider.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\layout\\exo_list_divider.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_repeat_all.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_repeat_all.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_rewind.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_rewind.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_fastforward.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_exo_simple_player_view.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\layout\\exo_simple_player_view.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_exo_icon_circular_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxxhdpi-v4\\exo_icon_circular_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_stop.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_stop.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_fastforward.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_shuffle_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_repeat_one.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_repeat_all.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_repeat_one.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_pause.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_pause.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_circular_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_circular_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_previous.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_previous.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_repeat_all.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_shuffle_on.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_next.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_next.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_rewind.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_rewind.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_repeat_all.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_repeat_all.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_previous.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_previous.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_repeat_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_vr.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_vr.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_fullscreen_exit.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_circular_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_circular_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_stop.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_stop.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_fullscreen_exit.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_vr.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_vr.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_shuffle_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_shuffle_on.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_repeat_one.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_fastforward.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_edit_mode_logo.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_edit_mode_logo.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_shuffle_on.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_shuffle_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable_launch_background.xml.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\drawable\\launch_background.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_fastforward.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_fastforward.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_shuffle_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_pause.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_pause.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_repeat_one.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_fastforward.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_fastforward.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_shuffle_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_shuffle_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_pause.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_pause.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_exo_player_control_view.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\layout\\exo_player_control_view.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_stop.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_stop.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_circular_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_circular_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_rewind.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_rewind.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_fullscreen_exit.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_fullscreen_enter.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_fullscreen_enter.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_fullscreen_enter.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_fullscreen_enter.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_rewind.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_rewind.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_fastforward.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_fastforward.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_repeat_off.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_repeat_off.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_rewind.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_rewind.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_shuffle_on.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_next.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_next.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_repeat_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_previous.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_previous.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_vr.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_vr.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_fullscreen_enter.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_pause.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_pause.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_shuffle_on.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_shuffle_on.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_fullscreen_exit.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_shuffle_off.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_shuffle_off.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_repeat_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_stop.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_stop.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_next.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_next.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_pause.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_pause.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_vr.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xhdpi-v4\\exo_icon_vr.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_repeat_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_exo_icon_stop.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-ldpi-v4\\exo_icon_stop.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_previous.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_previous.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_play.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_play.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_fullscreen_enter.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_fullscreen_enter.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_previous.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_previous.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_exo_player_view.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\layout\\exo_player_view.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_shuffle_on.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_shuffle_on.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_repeat_one.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_repeat_one.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_fullscreen_exit.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_fullscreen_exit.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_repeat_off.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_repeat_off.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_exo_playback_control_view.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_exo_track_selection_dialog.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\layout\\exo_track_selection_dialog.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_next.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_next.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_circular_play.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_icon_circular_play.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_repeat_one.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_repeat_one.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_edit_mode_logo.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-xxhdpi-v4\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_exo_icon_repeat_all.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-hdpi-v4\\exo_icon_repeat_all.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_fullscreen_exit.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-mdpi-v4\\exo_icon_fullscreen_exit.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_next.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_next.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\e9dab9c67c1ee3668e0bbf86c6d8cbd8\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_icon_previous.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\ec347bb9a3f89db7cd9a70a315acb5a7\\exoplayer-ui-2.11.4\\res\\drawable-anydpi-v21\\exo_icon_previous.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\DONG\\.gradle\\caches\\transforms-2\\files-2.1\\24bb03d10ab268a6aeafc941e4345037\\media-1.1.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\DONG\\Documents\\AndroidStudioProjects\\xylophone-flutter\\build\\app\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    }
+]

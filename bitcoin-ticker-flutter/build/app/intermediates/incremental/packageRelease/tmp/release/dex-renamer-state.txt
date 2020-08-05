@@ -1,0 +1,4 @@
+#Tue Aug 04 14:30:57 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\bitcoin-ticker-flutter\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

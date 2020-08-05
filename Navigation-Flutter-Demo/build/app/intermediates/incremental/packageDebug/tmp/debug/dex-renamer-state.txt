@@ -1,0 +1,4 @@
+#Sat Jul 04 18:58:05 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\Navigation-Flutter-Demo\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

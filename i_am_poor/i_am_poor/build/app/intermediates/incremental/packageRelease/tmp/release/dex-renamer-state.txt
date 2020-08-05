@@ -1,0 +1,4 @@
+#Fri May 22 17:33:41 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\i_am_poor\\i_am_poor\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Fri May 22 17:37:25 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\hello_flutter\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

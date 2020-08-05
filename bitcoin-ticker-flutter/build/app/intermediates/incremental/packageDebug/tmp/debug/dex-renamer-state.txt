@@ -1,0 +1,4 @@
+#Wed Aug 05 21:36:05 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\FlutterProject\\flutter-bootcamp-with-dart\\bitcoin-ticker-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

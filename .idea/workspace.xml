@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faa683cd-5899-4328-96a8-5f47a57eedc3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bitcoin-ticker-flutter" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\DONG\Documents\AndroidStudioProjects\FlutterProject\flutter-bootcamp-with-dart\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fgBi8QNPaZzWagMV6XM3OXxMsF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/bitcoin-ticker-flutter/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa683cd-5899-4328-96a8-5f47a57eedc3" name="Default Changelist" comment="" />
+      <created>1596629979441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596629979441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/Clima-Flutter" />
+      <path value="$PROJECT_DIR$/Navigation-Flutter-Demo" />
+      <path value="$PROJECT_DIR$/bitcoin-ticker-flutter" />
+      <path value="$PROJECT_DIR$/bmi-calculator-flutter" />
+      <path value="$PROJECT_DIR$/destini-challenge-starting" />
+      <path value="$PROJECT_DIR$/dicee-flutter" />
+      <path value="$PROJECT_DIR$/magic-8-ball-flutter" />
+      <path value="$PROJECT_DIR$/mi_card_flutter" />
+      <path value="$PROJECT_DIR$/mi_card_flutter_2" />
+      <path value="$PROJECT_DIR$/quizzler-flutter" />
+      <path value="$PROJECT_DIR$/xylophone-flutter" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596630909490">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596630909490" />
+    <state x="2609" y="308" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596630908719">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2609" y="308" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596630908719" />
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1596631067434">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
+    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1596631067434">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
+    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1596631067434">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
+    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1596631067434">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
+    <state x="2468" y="241" key="RollbackChangesDialog" timestamp="1596632309265">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2468" y="241" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596632309265" />
+    <state x="2381" y="161" key="SettingsEditor" timestamp="1596632672524">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="161" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596632672524" />
+    <state x="2471" y="413" key="git4idea.ui.GitResetDialog" timestamp="1596632323297">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2471" y="413" key="git4idea.ui.GitResetDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596632323297" />
+  </component>
+</project>

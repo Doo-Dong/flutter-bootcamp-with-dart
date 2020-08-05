@@ -1,0 +1,4 @@
+#Fri May 22 18:22:03 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\dicee-flutter\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

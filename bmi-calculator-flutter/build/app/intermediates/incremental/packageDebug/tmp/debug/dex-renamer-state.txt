@@ -1,0 +1,4 @@
+#Wed Jul 15 18:23:09 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\bmi-calculator-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
