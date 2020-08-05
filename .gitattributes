@@ -1,3 +1,2 @@
 *.java linguist-vendored
-*.DTrace linguist-vendored
-*.Makefile linguist-vendored
+*.d linguist-vendored
