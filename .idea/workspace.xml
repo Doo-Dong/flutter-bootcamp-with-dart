@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="faa683cd-5899-4328-96a8-5f47a57eedc3" name="Default Changelist" comment="" />
+    <list default="true" id="faa683cd-5899-4328-96a8-5f47a57eedc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bitcoin-ticker-flutter" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -34,16 +37,21 @@
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Flutter.main.dart (1)">
+    <configuration name="main.dart (1)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/flash-chat-flutter/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/bitcoin-ticker-flutter/lib/main.dart" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.main.dart (1)" />
         <item itemvalue="Flutter.main.dart" />
       </list>
     </recent_temporary>
@@ -76,41 +84,46 @@
       <path value="$PROJECT_DIR$/mi_card_flutter_2" />
       <path value="$PROJECT_DIR$/quizzler-flutter" />
       <path value="$PROJECT_DIR$/xylophone-flutter" />
+      <path value="$PROJECT_DIR$/flash-chat-flutter" />
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596630909490">
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596634195145">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596630909490" />
+    <state x="2334" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596634195145" />
     <state x="2609" y="308" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1596630908719">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2609" y="308" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596630908719" />
-    <state width="1875" height="281" key="GridCell.Tab.0.bottom" timestamp="1596631067434">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1596634239856">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
-    <state width="1875" height="281" key="GridCell.Tab.0.center" timestamp="1596631067434">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596634239856" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1596634239856">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
-    <state width="1875" height="281" key="GridCell.Tab.0.left" timestamp="1596631067434">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596634239856" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1596634239856">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
-    <state width="1875" height="281" key="GridCell.Tab.0.right" timestamp="1596631067434">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596634239856" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1596634239856">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="281" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596631067434" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596634239856" />
     <state x="2468" y="241" key="RollbackChangesDialog" timestamp="1596632309265">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2468" y="241" key="RollbackChangesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596632309265" />
-    <state x="2381" y="161" key="SettingsEditor" timestamp="1596632672524">
+    <state x="2381" y="161" key="SettingsEditor" timestamp="1596633884626">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2381" y="161" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596632672524" />
+    <state x="2381" y="161" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596633884626" />
+    <state x="2573" y="116" width="614" height="807" key="find.popup" timestamp="1596634485208">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2573" y="116" width="614" height="807" key="find.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596634485208" />
     <state x="2471" y="413" key="git4idea.ui.GitResetDialog" timestamp="1596632323297">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
