@@ -1,4 +1,4 @@
-#Mon May 18 09:21:55 KST 2020
-base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\i_am_poor\\i_am_poor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Thu Oct 15 17:17:25 KST 2020
+base.0=D\:\\DONG\\Documents\\AndroidStudioProjects\\FlutterProject\\flutter-bootcamp-with-dart\\i_am_poor\\i_am_poor\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
